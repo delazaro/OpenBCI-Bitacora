@@ -1,4 +1,8 @@
 Goal : To design a BCI system that allows a user to control a system by imagining different movements of their limbs. ( 2 degrees of freedom ) 
 
 
-https://docs.openbci.com/Deprecated/MotorImagery/
+
+
+https://docs.openbci.com/Deprecated/MotorImagery/#imagined-moments-classification
+https://www.neuropype.io/docs/getting_started/biosignal_processing.html#imagined-movements-classification
+
