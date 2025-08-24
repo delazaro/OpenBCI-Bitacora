@@ -6,3 +6,23 @@ Goal : To design a BCI system that allows a user to control a system by imaginin
 https://docs.openbci.com/Deprecated/MotorImagery/#imagined-moments-classification
 https://www.neuropype.io/docs/getting_started/biosignal_processing.html#imagined-movements-classification
 
+
+Let's try first: 
+
+Testing OpenBCI only : 
+To send trought SLS select in the botton right screen on the GUI = Networking and in the far left drop menu select LSL 
+Still don't know Data type to select. Need to be checked when connecting to Neuropype
+It needs to reset everything. it seems that it will be needed to apply grasse to improve impedance checks
+
+
+
+Testing Neuropype 
+Play the diagram as it is , works fine ! no issues 
+
+Next step: 
+
+Create a calibration file using OpenBCI 
+  -Python Script : 
+
+
+Create a LSL that captures signals comming from OpenBCI 
