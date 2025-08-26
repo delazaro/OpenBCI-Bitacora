@@ -25,4 +25,7 @@ Create a calibration file using OpenBCI
   -Python Script : 
 
 
-Create a LSL that captures signals comming from OpenBCI 
+Create a LSL that captures signals comming from OpenBCI .
+
+
+In order to LAB RECORDER to see Open BCI ( obci_eeg1 ) first left up botton and then LSL stream ( TimeSeries Raw works ) or anything but None 
